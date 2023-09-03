@@ -19,8 +19,6 @@ Les zones LED du PCB ont des fenêtres ovales sur la facade. Ces fenêtres sont 
 
 L'arrière de la façade offre une petite zone pour écrire la version de votre firmware ou d'autres notes au marqueur permanent.
 
-La façade fonctionne avec toutes les versions de l'AIO Micro à ce jour (la dernière version en date est la v4.1). La façade peut également fonctionner avec les versions ultérieures.
-
 # Vis
 
 La prise ampseal utilise 4 vis autotaraudeuses M2,5. Longueur 8 mm.
