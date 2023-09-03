@@ -1,9 +1,12 @@
-# AIO-Micro-Hammond-Faceplate
+# AIO-Hammond-Faceplate
 
-A PCB faceplate that fits the AgOpenGPS All-in-One (AIO) Micro and Hammond 1455T2201 plastic bezel. This faceplate contains no traces, its FR4 cut to the right dimensions with silkscreen.
+2 versions :
 
-This faceplate does not fit the AIO Classic, it only fits the AIO Micro.
+- A PCB faceplate that fits the AgOpenGPS All-in-One (AIO) Micro and Hammond 1455T2201 plastic bezel. This faceplate contains no traces, its FR4 cut to the right dimensions with silkscreen.
+  This faceplate does not fit the AIO Classic, it only fits the AIO Micro. This PCB is design by WildBuckwheat
 
+- A PCB faceplate that fits the AgOpenGPS All-in-One (AIO) Standard and Hammond 1455Q2201 plastic bezel. This faceplate contains no traces, its FR4 cut to the right dimensions with silkscreen.
+  This faceplate does not fit the AIO Micro, it only fits the AIO Standard.
 
 # Pictures
 
