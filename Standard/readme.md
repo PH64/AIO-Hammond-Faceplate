@@ -2,7 +2,7 @@
 
 Ce PCB sert de plaque frontale et s'adapte au PCB AgOpenGPS All-in-One (AIO) Standard et à l'entretoise en plastique du boitier Hammond 1455Q2201. Cette façade ne contient aucune trace, son FR4 est découpé aux bonnes dimensions avec sérigraphie. Cette façade ne convient pas à l'AIO Micro, elle convient uniquement au AIO Standard.
 
-# Pictures
+# Images
 
 <img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" height="350">
 <img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/PCBs.jpg" height="350">
