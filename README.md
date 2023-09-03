@@ -1,4 +1,4 @@
-# AIO-Hammond-Faceplate
+# AIO-Hammond-Faceplate for AgOpenGPS
 
 2 versions :
 
