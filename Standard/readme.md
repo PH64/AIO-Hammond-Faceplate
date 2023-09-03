@@ -4,12 +4,9 @@ Ce PCB sert de plaque frontale et s'adapte au PCB AgOpenGPS All-in-One (AIO) Sta
 
 # Images
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" height="350">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/PCBs.jpg" height="350">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Top_Gerber.JPG" height="150">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Bottom_Gerber.JPG" height="150">
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="150">
 
 # Caractéristiques
 
