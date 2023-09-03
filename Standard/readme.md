@@ -11,7 +11,7 @@ Ce PCB sert de plaque frontale et s'adapte au PCB AgOpenGPS All-in-One (AIO) Sta
 <img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
 <img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="150">
 
-# Caraxtéristiques
+# Caractéristiques
 
 La façade présente des découpes pour la prise Ampseal, la prise RJ45 et le connecteur GPS. Si vous utilisez un double et/ou une radio, vous aurez besoin de trous supplémentaires.
 
