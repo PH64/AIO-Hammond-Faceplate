@@ -6,7 +6,7 @@ Ce PCB sert de plaque frontale et s'adapte au PCB AgOpenGPS All-in-One (AIO) Sta
 
 <img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Top_Gerber.png" height="150">
 <img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Bottom_Gerber.png" height="150">
-g
+
 
 # Caractéristiques
 
