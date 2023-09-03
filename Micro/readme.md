@@ -2,14 +2,13 @@
 
 Ce PCB sert de plaque frontale et s'adapte au PCB AgOpenGPS All-in-One (AIO) Micro et à l'entretoise en plastique du boitier Hammond 1455T2201. Cette façade ne contient aucune trace, son FR4 est découpé aux bonnes dimensions avec sérigraphie. Cette façade ne convient pas à l'AIO Standard, elle convient uniquement au AIO Micro.
 
+Cette facade a été créé par WildBuckwheat https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate
+
 # Images
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" height="350">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/PCBs.jpg" height="350">
-
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="150">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="150">
 
 # Caractéristiques
 
