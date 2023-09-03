@@ -13,12 +13,9 @@
 The real life pictures shown are of v1.0, the files are of v1.1. Between versions the silkscreen changed slightly and the hole for the GPS receiver was changed to the right position (left shown in pictures). The copper logo on the backside was removed. The spacer solder mask layers were added in so that the spacer can be ordered in colour. The files match the gerber previews.
 
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" height="350">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/PCBs.jpg" height="350">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Top_Gerber.JPG" height="150">
+<img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Bottom_Gerber.JPG.png" height="150">
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="150">
 
 
 # Features
