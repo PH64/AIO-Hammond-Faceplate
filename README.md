@@ -16,6 +16,7 @@ The real life pictures shown are of v1.0, the files are of v1.1. Between version
 <img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
 <img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="150">
 
+#
 
 <img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Top_Gerber.png" height="150">
 <img src="https://github.com/PH64/AIO-Hammond-Faceplate/blob/main/Images/Faceplate_Standard_Bottom_Gerber.png" height="150">
@@ -29,8 +30,6 @@ The faceplate offers cutouts for the Ampseal housing, the RJ45 jack, and the rig
 The LED areas of the board have oval windows. These windows are devoid of silkscreen and soldermask, leaving the bare FR4 fiberglass, which is translucent. The LEDs are able to shine through these windows, albeit dimly. The LEDs are well visible in low light conditions, and are visible in daylight if you shade them with your hand. The LEDs may or may not be visible in bright daylight conditions.
 
 The back of the faceplate offers a small area to write your firmware version or other notes in permanent marker.
-
-The faceplate works with all versions of the AIO Micro to date (latest version to date is v4.1). The faceplate may work with later versions as well.
 
 
 # Spacer
